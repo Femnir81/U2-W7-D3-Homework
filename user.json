@@ -1,0 +1,26 @@
+[  
+    {
+    "id": 1,
+    "name": "Tizio",
+    "age": "35",
+    "gender": "Maschile"
+    },
+    {
+    "id": 2,
+    "name": "Tizia",
+    "age": "25",
+     "gender": "Femminile"
+    },
+    {
+    "id": 3,
+    "name": "Caio",
+    "age": "20",
+    "gender": "Maschile"
+    },
+    {
+    "id": 4,
+    "name": "Sempronio",
+    "age": "30",
+    "gender": "Maschile"
+    }
+]
